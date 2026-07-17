@@ -55,9 +55,15 @@ const POSTS = [
     date: "2026-07-17",
     cover: "work-life.jpg",
     content: `
-Như thế nào mới là định nghĩa đúng về "Work life balance" mà mọi người hay nói. Theo mình, sẽ không có 1 định nghĩa chung cho tất cả mà sẽ là
+Work-life balance không phải là chia đều thời gian giữa công việc và cuộc sống.
 
-Work is life and Life is work
+Mỗi người sẽ có một định nghĩa khác nhau về sự cân bằng. Với tôi, không có một công thức chung cho tất cả.
+
+Work is life. Life is work.
+
+Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó không còn là thứ phải tách biệt khỏi cuộc sống. Và khi cuộc sống nuôi dưỡng sức khỏe, các mối quan hệ và tinh thần, nó cũng giúp chúng ta làm việc tốt hơn.
+
+Điều quan trọng không phải là cân bằng 50/50, mà là tìm được nhịp sống phù hợp với chính mình ở từng giai đoạn của cuộc đời.
     `
   },
 
