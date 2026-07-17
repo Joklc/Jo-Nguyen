@@ -105,7 +105,7 @@ Có những chuyến đi không cần lịch trình. Sáng sớm, sương còn g
     title: "Mindfulness Leadership – Lãnh đạo bắt đầu từ chính mình",
     category: "works",
     date: "2026-07-02",
-    cover: "",
+    cover: "mindfullness dleadership.png",
     content: `
 Trong công việc, nhiều người cho rằng lãnh đạo là người giỏi nhất, quyết đoán nhất hay có quyền lực lớn nhất.
 
