@@ -62,7 +62,13 @@
   .nav-links{
     display:flex;
     gap:4px;
+    align-items:center;
+    overflow-x:auto;
+    scrollbar-width:none;
   }
+  .nav-links::-webkit-scrollbar{display:none;}
+  .nav-links a{white-space:nowrap;}
+  #menuSlot{display:contents;}
   .nav-links a{
     font-family:'Archivo',sans-serif;
     font-weight:600;
@@ -338,6 +344,7 @@
     <div class="nav-links">
       <a id="nav-home" onclick="go('home')">Trang chủ</a>
       <a id="nav-posts" onclick="go('posts')">Bài viết</a>
+      <span id="menuSlot"></span>
       <a id="nav-about" onclick="go('about')">Về mình</a>
     </div>
   </div>
@@ -395,6 +402,17 @@ let activeFilter = 'Tất cả';
 
 document.getElementById('siteLogo').innerHTML =
   escapeHtml(SITE.name).replace(/ /, ' <span>') + '</span>';
+
+/* Menu chủ đề động — khai báo trong posts.js:  menu: ["công việc", "du lịch", ...] */
+const MENU = (typeof SITE.menu !== 'undefined' && Array.isArray(SITE.menu)) ? SITE.menu : [];
+const menuSlot = document.getElementById('menuSlot');
+MENU.forEach((m, i)=>{
+  const a = document.createElement('a');
+  a.id = 'nav-menu-' + i;
+  a.textContent = m.charAt(0).toUpperCase() + m.slice(1);
+  a.onclick = ()=>{ location.hash = '#/chu-de/' + encodeURIComponent(m); };
+  menuSlot.appendChild(a);
+});
 document.getElementById('footerLeft').textContent =
   '© ' + new Date().getFullYear() + ' ' + SITE.author;
 document.title = SITE.name;
@@ -542,7 +560,21 @@ function route(){
   ['home','posts','about'].forEach(v=>{
     document.getElementById('nav-'+v).classList.toggle('active', false);
   });
+  MENU.forEach((m,i)=>{
+    document.getElementById('nav-menu-'+i).classList.toggle('active', false);
+  });
+  if(page === 'chu-de' && arg !== undefined){
+    const cat = decodeURIComponent(arg);
+    activeFilter = cat;
+    renderPostsPage();
+    document.getElementById('view-posts').classList.add('show');
+    const idx = MENU.indexOf(cat);
+    if(idx >= 0) document.getElementById('nav-menu-'+idx).classList.add('active');
+    window.scrollTo(0,0);
+    return;
+  }
   if(page === 'posts'){
+    activeFilter = 'Tất cả';
     renderPostsPage();
     document.getElementById('view-posts').classList.add('show');
     document.getElementById('nav-posts').classList.add('active');
