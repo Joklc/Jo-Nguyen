@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -352,10 +352,10 @@
   <div class="nav-inner">
     <div class="logo" onclick="go('home')" id="siteLogo"></div>
     <div class="nav-links">
-      <a id="nav-home" onclick="go('home')">Trang chủ</a>
-      <a id="nav-posts" onclick="go('posts')">Bài viết</a>
+      <a id="nav-home" onclick="go('home')">Home</a>
+      <a id="nav-posts" onclick="go('posts')">Posts</a>
       <span id="menuSlot"></span>
-      <a id="nav-about" onclick="go('about')">Về mình</a>
+      <a id="nav-about" onclick="go('about')">About</a>
     </div>
   </div>
 </nav>
@@ -365,13 +365,13 @@
   <!-- TRANG CHỦ -->
   <section class="view" id="view-home">
     <div id="featuredSlot"></div>
-    <div class="section-label">Bài viết gần đây</div>
+    <div class="section-label">Recent posts</div>
     <div class="grid" id="homeGrid"></div>
   </section>
 
   <!-- TẤT CẢ BÀI VIẾT -->
   <section class="view" id="view-posts">
-    <div class="section-label">Tất cả bài viết</div>
+    <div class="section-label">All posts</div>
     <div class="filters" id="filters"></div>
     <div class="grid" id="postsGrid"></div>
   </section>
@@ -379,7 +379,7 @@
   <!-- CHI TIẾT BÀI -->
   <section class="view" id="view-post">
     <div class="post-detail">
-      <span class="back" onclick="history.back()">&larr; Quay lại</span>
+      <span class="back" onclick="history.back()">&larr; Back</span>
       <div id="postBadge"></div>
       <h1 id="postTitle"></h1>
       <div class="meta" id="postMeta"></div>
@@ -392,7 +392,7 @@
   <section class="view" id="view-about">
     <div class="about-wrap">
       <div id="aboutPhotoSlot"></div>
-      <h1 style="text-align:center">Về mình</h1>
+      <h1 style="text-align:center">About me</h1>
       <div id="aboutBody"></div>
     </div>
   </section>
@@ -408,7 +408,7 @@
 <script src="posts.js"></script>
 <script>
 const PALETTE = ['#2F52E0','#0E8A6C','#B4560F','#8A3FB3','#B33355','#3B7A1E'];
-let activeFilter = 'Tất cả';
+let activeFilter = 'All';
 
 document.getElementById('siteLogo').innerHTML =
   escapeHtml(SITE.name).replace(/ /, ' <span>') + '</span>';
@@ -434,7 +434,8 @@ function escapeHtml(s){
 }
 function fmtDate(d){
   const dt = new Date(d + 'T00:00:00');
-  return dt.getDate() + ' tháng ' + (dt.getMonth()+1) + ', ' + dt.getFullYear();
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  return months[dt.getMonth()] + ' ' + dt.getDate() + ', ' + dt.getFullYear();
 }
 function catColor(cat){
   let h = 0;
@@ -465,16 +466,16 @@ function renderHome(){
   const grid = document.getElementById('homeGrid');
   if(posts.length === 0){
     slot.innerHTML = '';
-    grid.innerHTML = '<div class="empty">Chưa có bài viết nào.</div>';
+    grid.innerHTML = '<div class="empty">No posts yet.</div>';
     return;
   }
   const f = posts[0];
   slot.innerHTML = `
-    <div class="section-label">Mới nhất</div>
+    <div class="section-label">Latest</div>
     <article class="featured" onclick="openPost(${POSTS.indexOf(f)})">
       ${coverHtml(f,'')}
       <div class="body">
-        <span class="badge">${escapeHtml(f.category||'chưa phân loại')}</span>
+        <span class="badge">${escapeHtml(f.category||'uncategorized')}</span>
         <h2>${escapeHtml(f.title)}</h2>
         <p class="excerpt">${escapeHtml(excerptOf(f))}</p>
         <div class="meta">${fmtDate(f.date)}</div>
@@ -483,7 +484,7 @@ function renderHome(){
   grid.innerHTML = '';
   posts.slice(1, 7).forEach(p => grid.appendChild(cardEl(p)));
   if(posts.length === 1){
-    grid.innerHTML = '<div class="empty">Các bài tiếp theo sẽ hiện ở đây.</div>';
+    grid.innerHTML = '<div class="empty">More posts will appear here.</div>';
   }
 }
 
@@ -494,7 +495,7 @@ function cardEl(p){
   div.innerHTML = `
     ${coverHtml(p,'')}
     <div class="body">
-      <div class="cat">${escapeHtml(p.category||'chưa phân loại')}</div>
+      <div class="cat">${escapeHtml(p.category||'uncategorized')}</div>
       <h3>${escapeHtml(p.title)}</h3>
       <p class="excerpt">${escapeHtml(excerptOf(p))}</p>
       <div class="meta">${fmtDate(p.date)}</div>
@@ -503,7 +504,7 @@ function cardEl(p){
 }
 
 function renderPostsPage(){
-  const cats = ['Tất cả', ...new Set(POSTS.map(p=>p.category).filter(Boolean))];
+  const cats = ['All', ...new Set(POSTS.map(p=>p.category).filter(Boolean))];
   const fEl = document.getElementById('filters');
   fEl.innerHTML = '';
   cats.forEach(c=>{
@@ -515,9 +516,9 @@ function renderPostsPage(){
   });
   const grid = document.getElementById('postsGrid');
   grid.innerHTML = '';
-  const list = sortedPosts().filter(p => activeFilter==='Tất cả' || p.category===activeFilter);
+  const list = sortedPosts().filter(p => activeFilter==='All' || p.category===activeFilter);
   if(list.length===0){
-    grid.innerHTML = '<div class="empty">Chưa có bài nào ở chủ đề này.</div>';
+    grid.innerHTML = '<div class="empty">No posts in this category yet.</div>';
     return;
   }
   list.forEach(p => grid.appendChild(cardEl(p)));
@@ -527,7 +528,7 @@ function renderPost(i){
   const p = POSTS[i];
   if(!p){ go('home'); return; }
   document.getElementById('postBadge').innerHTML =
-    `<span class="badge">${escapeHtml(p.category||'chưa phân loại')}</span>`;
+    `<span class="badge">${escapeHtml(p.category||'uncategorized')}</span>`;
   document.getElementById('postTitle').textContent = p.title;
   document.getElementById('postMeta').textContent = fmtDate(p.date) + ' · ' + SITE.author;
   const coverEl = document.getElementById('postCover');
@@ -590,7 +591,7 @@ function route(){
     return;
   }
   if(page === 'posts'){
-    activeFilter = 'Tất cả';
+    activeFilter = 'All';
     renderPostsPage();
     document.getElementById('view-posts').classList.add('show');
     document.getElementById('nav-posts').classList.add('active');
