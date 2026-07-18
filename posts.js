@@ -110,8 +110,8 @@ Có những chuyến đi không cần lịch trình. Sáng sớm, sương còn g
 Trong công việc, nhiều người cho rằng lãnh đạo là người giỏi nhất, quyết đoán nhất hay có quyền lực lớn nhất.
 
 Nhưng theo tôi, lãnh đạo thực sự bắt đầu từ khả năng lãnh đạo chính mình.
-[youtube: https://youtu.be/eTb3bgqz6Hc?si=X8lmIltCBjkqASPH]
-|: [youtube: link | Video mình thích nhất tuần này]
+
+[youtube: https://youtu.be/eTb3bgqz6Hc?si=X8lmIltCBjkqASPH | Video mình thích về chủ đề này]
 
 Mindfulness Leadership (Lãnh đạo tỉnh thức) là khả năng nhận thức rõ suy nghĩ, cảm xúc và hành động của bản thân để đưa ra quyết định có chủ đích, thay vì phản ứng theo cảm xúc hay áp lực.
 
