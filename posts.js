@@ -111,7 +111,7 @@ Trong công việc, nhiều người cho rằng lãnh đạo là người giỏi
 
 Nhưng theo tôi, lãnh đạo thực sự bắt đầu từ khả năng lãnh đạo chính mình.
 
-[youtube: https://youtu.be/eTb3bgqz6Hc?si=X8lmIltCBjkqASPH | Video mình thích về chủ đề này]
+[youtube: https://youtu.be/eTb3bgqz6Hc?si=dSE2_wPtG7dzIypO | Video mình thích về chủ đề này]
 
 Mindfulness Leadership (Lãnh đạo tỉnh thức) là khả năng nhận thức rõ suy nghĩ, cảm xúc và hành động của bản thân để đưa ra quyết định có chủ đích, thay vì phản ứng theo cảm xúc hay áp lực.
 
