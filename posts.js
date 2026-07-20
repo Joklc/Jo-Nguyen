@@ -37,7 +37,7 @@ const SITE = {
   aboutPhoto: "Jo.png",
 
   // Menu chủ đề trên thanh điều hướng — tên phải TRÙNG với category của bài
-  menu: ["works", "travel", "thoughts", "life", "Knowledge sharing"],
+  menu: ["works", "travel", "thoughts", "life", "Tech.sharing"],
 
   about: `
 Xin chào, mình là Joklc.
