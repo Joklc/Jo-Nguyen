@@ -187,4 +187,27 @@ Nên mình đổi cách chơi. Mùa nắng thì dậy sớm hơn một chút, ch
 Sức khoẻ giống như ly cafe sáng — không thể uống bù. Mỗi ngày một chút, nắng cũng được, mưa cũng được, miễn là đừng dừng lại.
     `
   },
+  {
+    title: "Ở lại, sau tất cả những lần muốn buông",
+    category: "works",
+    date: "2026-05-01",
+    cover: "stay-through-storm.jpg",
+    content: `
+Có một giai đoạn mình từng nghĩ đến chuyện nghỉ việc gần như mỗi tuần.
+
+Sếp mới về thay, cách làm việc khác hoàn toàn với những gì mình đã quen. Kỳ vọng cao hơn, quy trình thay đổi, và có những ngày mọi thứ mình làm đều như chưa đủ. Khó khăn không đến từ một việc lớn, mà từ rất nhiều việc nhỏ dồn lại — một cuộc họp căng thẳng, một email góp ý không như mong đợi, một buổi tối về nhà chỉ muốn nằm im không nghĩ gì nữa.
+
+Có những đêm mình mở trang tìm việc, gõ vào ô tìm kiếm rồi lại đóng lại. Không phải vì không có lựa chọn khác, mà vì trong lòng vẫn còn một câu hỏi chưa trả lời được: mình đang chạy trốn, hay mình đang thực sự cần rời đi?
+
+[youtube: https://www.youtube.com/watch?v=lwgr_IMeEgA | Rise Up — Andra Day. Bài hát mình nghe đi nghe lại trong giai đoạn đó]
+
+Mình chọn ở lại, không phải vì không còn đường nào khác, mà vì muốn tự mình trả lời câu hỏi đó cho rõ ràng trước khi bước tiếp.
+
+Vài tháng sau, mọi thứ không đột nhiên dễ dàng hơn. Nhưng mình dễ dàng hơn với chính mình. Mình học cách hỏi lại khi chưa hiểu thay vì tự đoán rồi làm sai. Học cách tách bạch: một lời góp ý gay gắt không đồng nghĩa với việc mình thất bại. Và học được rằng đôi khi kỳ vọng cao từ người khác lại chính là thứ đẩy mình đi xa hơn mình từng nghĩ.
+
+Mình không biết đây có phải là quyết định đúng cho tất cả mọi người không. Có những công việc, những môi trường, thực sự cần phải rời đi mới là lựa chọn đúng đắn — và điều đó hoàn toàn không sao cả.
+
+Nhưng với mình, lần này, ở lại hoá ra lại là bài học lớn nhất. Không phải vì mọi thứ trở nên hoàn hảo, mà vì mình phát hiện ra mình bền hơn mình tưởng.
+    `
+  },
 ];
