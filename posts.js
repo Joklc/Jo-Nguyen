@@ -67,6 +67,13 @@ Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó k
 Điều quan trọng không phải là cân bằng 50/50, mà là tìm được nhịp sống phù hợp với chính mình ở từng giai đoạn của cuộc đời.
     `
   },
+  title: "Dashboard",
+    category: "Works",
+    date: "2026-06-08",
+    cover: "",
+    content: `
+https://sales-dashboard-n2uygdf9ulrbzgvnrwbfwz.streamlit.app/
+    `
 {
     title: "Những ngày mưa",
     category: "thoughts",
