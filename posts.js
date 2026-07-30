@@ -246,6 +246,8 @@ Chuột phụ trách đánh sữa, mèo phụ trách nén cafe. Lâu dần thàn
 
 Lớp bọt sữa hôm tròn hôm méo, hình trái tim hôm ra hôm không. Nhưng hoá ra điều đó chẳng quan trọng. Quan trọng là mỗi sáng đều có một khoảng lặng để bắt đầu ngày mới cùng nhau.
 
+[youtube:https://youtu.be/L0FQb3RMfPg?si=g8vVTmfDPsP9TakR | Always remember us this way - Lady Gaga]
+
     `
   },
    {
