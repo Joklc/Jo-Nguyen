@@ -92,6 +92,7 @@ Mình không muốn giả vờ là những ngày đó đều có bài học đ�
 Nhưng mình cũng nhận ra một điều: cảm giác "mình không có giá trị" là một cảm giác, không phải một sự thật. Nó đến rồi đi, giống như một cơn mưa. Ngày mai trời có thể vẫn âm u, nhưng cũng có thể nắng lên mà mình không ngờ tới.
 
 Nên những ngày mưa như vậy, mình cho phép mình không ổn. Không cố gồng lên tích cực, cũng không cố giải quyết gì ngay. Chỉ cần đi qua nó, chậm rãi, rồi đợi nắng lên.
+
 [youtube: https://youtu.be/dHAWUXt2QN4?si=CLps9a1vYy6Ns_1F | Cứ vui lên ! - Mỹ Tâm]
     `
   },
