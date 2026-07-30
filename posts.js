@@ -71,7 +71,7 @@ Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó k
     title: "Dashboard",
     category: "works",
     date: "2026-06-08",
-    cover: "",
+    cover: "dashboard-cover.jpg",
     content: `
 https://sales-dashboard-n2uygdf9ulrbzgvnrwbfwz.streamlit.app/
     `
