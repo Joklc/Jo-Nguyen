@@ -127,7 +127,7 @@ Học công cụ mới luôn giống nhau: vài giờ đầu bực bội, rồi 
     title: "Con duy nhất",
     category: "thoughts",
     date: "2026-04-27",
-    cover: "",
+    cover: "mother-son.jpg",
     content: `
 Mẹ mình già rồi. Tóc mẹ đã bạc nhiều, có những sợi mẹ chưa kịp nhuộm, cứ để vậy vì bận, hoặc vì không còn quá bận tâm như hồi trẻ nữa.
 
