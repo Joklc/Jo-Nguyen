@@ -93,7 +93,25 @@ Nên những ngày mưa như vậy, mình cho phép mình không ổn. Không c�
 Không phải ngày nào cũng cần một bài học lớn. Có ngày chỉ cần nhận ra mình đã cười nhiều hơn hôm qua một chút, vậy là đủ.
     `
   },
+{
+    title: "Tư duy ngược và tư duy mở",
+    category: "learn",
+    date: "2026-04-01",
+    cover: "reverse-open-thinking.jpg",
+    content: `
+Gần đây mình đọc hai quyển sách cùng lúc, và lạ là hai ý tưởng tưởng chừng khác nhau lại bổ sung cho nhau rất khớp: tư duy ngược và tư duy mở.
 
+Tư duy ngược, hiểu đơn giản, là thay vì hỏi "làm sao để đạt được điều này", mình hỏi ngược lại "điều gì sẽ khiến mình chắc chắn thất bại" — rồi tránh xa những điều đó. Nghe có vẻ tiêu cực, nhưng thực ra lại rất thực tế. Nhiều khi mình không biết con đường đến thành công là gì, nhưng lại biết rõ con đường nào chắc chắn dẫn tới thất bại. Tránh cái sai đôi khi dễ và hiệu quả hơn nhiều so với việc cố tìm ra cái đúng ngay từ đầu.
+
+Mình thử áp dụng vào công việc: thay vì hỏi "làm sao để báo cáo này thật hoàn hảo", mình hỏi "điều gì sẽ khiến báo cáo này sai hoặc vô dụng" — số liệu không khớp nguồn, thiếu ngữ cảnh, sếp đọc không hiểu ngay câu đầu. Tránh được từng cái đó, bản báo cáo tự nhiên tốt lên mà không cần một công thức "hoàn hảo" nào cả.
+
+Tư duy mở thì ngược lại một chút — nó không phải là né tránh, mà là chủ động thách thức chính những gì mình đang tin. Mình quen với việc bảo vệ quan điểm của mình, nhưng tư duy mở đòi hỏi mình thỉnh thoảng phải tự hỏi: nếu mình sai thì sao? Không phải để nghi ngờ bản thân liên tục, mà để giữ cho đầu óc đừng đóng băng lại ở một câu trả lời có sẵn.
+
+Combo của hai thứ này thú vị ở chỗ: tư duy ngược giúp mình tránh những sai lầm rõ ràng, còn tư duy mở giúp mình không tự mãn với những gì tưởng là đúng. Một cái giữ mình an toàn, một cái giữ mình không ngừng học.
+
+Mình chưa áp dụng thành thục gì cả, vẫn đang tập hỏi ngược lại mỗi khi định lao vào làm gì đó, và tập im lặng lâu hơn một chút trước khi bác bỏ một ý kiến trái chiều. Nhưng chỉ riêng việc chậm lại để hỏi hai câu đó thôi, mình đã thấy mình quyết định sáng suốt hơn hẳn.
+    `
+  },
   {
     title: "Về việc học một công cụ mới",
     category: "works",
