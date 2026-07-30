@@ -76,9 +76,7 @@ Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó k
 https://sales-dashboard-n2uygdf9ulrbzgvnrwbfwz.streamlit.app/
     `
   },
-  {
-    title: "Những ngày mưa",
-    `
+ 
 {
     title: "Những ngày mưa",
     category: "thoughts",
