@@ -123,7 +123,25 @@ Tuần này mình thử viết lại một macro tự động hoá việc làm m
 Học công cụ mới luôn giống nhau: vài giờ đầu bực bội, rồi đến lúc mọi thứ khớp lại, cảm giác đó rất đáng.
     `
   },
+{
+    title: "Con duy nhất",
+    category: "thoughts",
+    date: "2026-04-27",
+    cover: "",
+    content: `
+Mẹ mình già rồi. Tóc mẹ đã bạc nhiều, có những sợi mẹ chưa kịp nhuộm, cứ để vậy vì bận, hoặc vì không còn quá bận tâm như hồi trẻ nữa.
 
+Mình là con một. Mình ở chung nhà, ngủ chung phòng, chăm sóc mẹ mỗi ngày. Vậy mà không hiểu sao, càng ở gần, mình lại càng nhận ra rõ hơn việc mẹ đang già đi. Một cách đi chậm hơn một chút. Một câu nói lặp lại mà mẹ không nhớ đã kể. Một buổi sáng mẹ ngủ dậy trễ hơn thường lệ.
+
+Mình hay chọc mẹ cười, nói khùng nói điên, giỡn những chuyện không đâu để mẹ bật cười thành tiếng. Nhưng có lẽ mình làm vậy không chỉ để mẹ vui. Mình làm vậy để giấu đi một nỗi sợ mình không dám nói thành lời — sợ một ngày sẽ không còn ai để mình chọc cười nữa.
+
+Có những đêm nằm cạnh mẹ, nghe tiếng mẹ thở đều, mình lại tự nhiên nghĩ đến một ngày nào đó sẽ chỉ còn lại mình mình. Không phải vì mình đang xa mẹ, mà chính vì mình đang ở gần mẹ đến vậy, nên mỗi dấu hiệu của tuổi già lại càng rõ ràng, càng khiến lòng mình nghẹn lại.
+
+Mình không biết phải chuẩn bị tâm lý cho điều đó như thế nào, hay có nên chuẩn bị hay không. Có lẽ không có cách nào chuẩn bị đủ cho một mất mát như vậy, dù mình đã ở cạnh mẹ mỗi ngày.
+
+Điều mình có thể làm, là trân trọng những gì đang có ngay lúc này. Nấu cho mẹ một bữa ăn ngon. Nhuộm tóc cho mẹ khi mẹ muốn. Tiếp tục chọc mẹ cười, giỡn những trò khùng điên như mọi ngày — không phải để giấu đi nỗi sợ nữa, mà vì đó thực sự là cách mình yêu thương mẹ, theo cách của riêng hai mẹ con mình.
+    `
+  },
   {
     title: "Sương sớm ở Đà Lạt",
     category: "travel",
