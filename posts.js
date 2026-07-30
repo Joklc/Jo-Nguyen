@@ -67,7 +67,23 @@ Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó k
 Điều quan trọng không phải là cân bằng 50/50, mà là tìm được nhịp sống phù hợp với chính mình ở từng giai đoạn của cuộc đời.
     `
   },
+{
+    title: "Những ngày mưa",
+    category: "thoughts",
+    date: "2026-07-27",
+    cover: "rainy-days.jpg",
+    content: `
+Có những ngày mưa mà không phải trời mưa. Mình ngồi đó, làm việc vẫn xong, vẫn cười khi cần cười, nhưng bên trong cứ trống trống, như thể mọi thứ mình làm đều không đủ, không đúng, không có ý nghĩa gì mấy.
 
+Cảm giác bất lực đó không đến từ một chuyện cụ thể. Nó âm ỉ, khó gọi tên. Chỉ biết là có những lúc mình tự hỏi mình đang cố gắng vì cái gì, và không có câu trả lời nào nghe thuyết phục cả.
+
+Mình không muốn giả vờ là những ngày đó đều có bài học đẹp đẽ ở cuối. Có ngày đúng là chỉ tệ vậy thôi, không cần phải biến nó thành động lực hay bài học gì cả.
+
+Nhưng mình cũng nhận ra một điều: cảm giác "mình không có giá trị" là một cảm giác, không phải một sự thật. Nó đến rồi đi, giống như một cơn mưa. Ngày mai trời có thể vẫn âm u, nhưng cũng có thể nắng lên mà mình không ngờ tới.
+
+Nên những ngày mưa như vậy, mình cho phép mình không ổn. Không cố gồng lên tích cực, cũng không cố giải quyết gì ngay. Chỉ cần đi qua nó, chậm rãi, rồi đợi nắng lên.
+    `
+  },
   {
     title: "Một ý nghĩ giữa tuần",
     category: "thoughts",
