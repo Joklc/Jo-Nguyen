@@ -162,7 +162,25 @@ Trong thời đại AI, kiến thức và kỹ năng sẽ ngày càng dễ đư�
 Lãnh đạo không bắt đầu từ việc thay đổi người khác. Lãnh đạo bắt đầu từ việc thay đổi chính mình.
     `
   },
+{
+    title: "Nhớ Melbourne",
+    category: "travel",
+    date: "2026-03-20",
+    cover: "melbourne-memory.jpg",
+    content: `
+Có những nơi mình chỉ ở một thời gian ngắn, nhưng lại nhớ như thể đã sống ở đó cả một đời. Với mình, đó là Melbourne.
 
+Mình nhớ cái lạnh ở đó — không phải cái lạnh khắc nghiệt, mà là cái lạnh khiến mình phải khoác thêm một lớp áo, hai tay đút túi, và bước đi nhanh hơn một chút trên đường. Melbourne nổi tiếng vì thời tiết thay đổi trong một ngày — sáng nắng, trưa mưa, chiều lạnh run — nhưng lạ là mình lại thấy nhớ chính sự thất thường đó, như nhớ một người bạn tính khí khó đoán nhưng dễ thương.
+
+Mình nhớ những con hẻm nhỏ (laneway) giấu một quán cà phê xinh xắn, nhớ ly cà phê flat white đầu tiên uống trong cái lạnh cắt da, hơi nóng bốc lên từ ly, tay ấm dần lên từng ngụm.
+
+Mình nhớ cả những con người ở đó — cách họ trò chuyện cởi mở với người lạ, cách một nhân viên quán cà phê nhớ mặt mình chỉ sau vài lần ghé, cách mọi người xếp hàng trật tự chờ tram mà không ai vội vã cáu gắt.
+
+Có những ký ức không lớn lao gì — chỉ là một buổi chiều đi bộ dọc sông Yarra, gió lạnh táp vào mặt, hay một tối ngồi trong quán ấm nhìn ra ngoài trời đang mưa. Nhưng chính những khoảnh khắc nhỏ đó lại đọng lại lâu nhất.
+
+Mình không biết khi nào sẽ quay lại. Nhưng mỗi khi trời trở lạnh ở đây, mình lại chợt nhớ Melbourne — nhớ một nơi xa mà có lúc từng cảm giác như nhà.
+    `
+  },
   {
     title: "Code",
     category: "works",
