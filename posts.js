@@ -80,7 +80,7 @@ https://sales-dashboard-n2uygdf9ulrbzgvnrwbfwz.streamlit.app/
     title: "Chính trị công sở và lợi ích nhóm",
     category: "life",
     date: "2026-06-12",
-    cover: "",
+    cover: "office-politics.jpg",
     content: `
 Có một điều không ai dạy mình ở trường, nhưng đi làm vài năm là tự hiểu: công việc không chỉ là làm tốt chuyên môn. Nó còn là hiểu cách vận hành của những mối quan hệ, những nhóm lợi ích, những luật chơi không viết thành văn bản nào cả.
 
