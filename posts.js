@@ -76,7 +76,27 @@ Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó k
 https://sales-dashboard-n2uygdf9ulrbzgvnrwbfwz.streamlit.app/
     `
   },
- 
+ {
+    title: "Chính trị công sở và lợi ích nhóm",
+    category: "life",
+    date: "2026-06-12",
+    cover: "",
+    content: `
+Có một điều không ai dạy mình ở trường, nhưng đi làm vài năm là tự hiểu: công việc không chỉ là làm tốt chuyên môn. Nó còn là hiểu cách vận hành của những mối quan hệ, những nhóm lợi ích, những luật chơi không viết thành văn bản nào cả.
+
+Ban đầu mình khá ngây thơ. Mình nghĩ chỉ cần làm việc chăm chỉ, số liệu đúng, báo cáo tốt là đủ. Nhưng dần dần mình nhận ra có những quyết định không hẳn dựa trên năng lực hay dữ liệu, mà dựa trên việc ai thân với ai, phòng ban nào có tiếng nói hơn, ai là người báo cáo trực tiếp cho ai.
+
+Mình không muốn viết bài này theo kiểu than vãn hay đổ lỗi. Chính trị công sở, theo một nghĩa nào đó, là điều tự nhiên xảy ra ở bất cứ đâu có nhiều người cùng làm việc với những mục tiêu, nguồn lực và cái tôi khác nhau. Vấn đề không phải là có tồn tại chính trị công sở hay không, mà là mình chọn tham gia vào nó như thế nào.
+
+Có một giai đoạn mình cố gắng đứng ngoài hoàn toàn — chỉ tập trung vào việc của mình, không dây vào phe nhóm nào. Nhưng đứng ngoài không có nghĩa là mình miễn nhiễm. Nhiều khi những quyết định ảnh hưởng trực tiếp đến công việc của mình lại được đưa ra ở những cuộc trò chuyện mình không có mặt.
+
+Dần dần mình học được một vài điều. Xây dựng mối quan hệ tốt với nhiều người, không chỉ với "phe" nào đó, quan trọng hơn mình nghĩ. Hiểu ai đang cần gì, ai chịu trách nhiệm gì, giúp mình đọc được tình huống thay vì bị động. Và quan trọng nhất: giữ cho mình một ranh giới rõ ràng — mình có thể quan sát, có thể hiểu luật chơi, nhưng không cần phải đánh đổi sự chính trực của mình để "chơi" theo cách người khác chơi.
+
+Có những lúc mình chứng kiến lợi ích nhóm ảnh hưởng đến những quyết định lẽ ra nên dựa trên điều đúng đắn hơn. Điều đó khiến mình mệt mỏi, đôi khi hoài nghi. Nhưng mình cũng nhận ra: mình không kiểm soát được cách người khác chơi, chỉ kiểm soát được cách mình phản ứng và cách mình chọn hành xử.
+
+Mình không có công thức nào để "thắng" trong chính trị công sở, và thật ra mình cũng không chắc "thắng" nghĩa là gì. Điều mình đang cố giữ là làm tốt việc của mình, đối xử công bằng với mọi người bất kể họ thuộc nhóm nào, và không để bản thân bị cuốn vào những trò chơi khiến mình không còn nhận ra chính mình nữa.
+    `
+  },
 {
     title: "Những ngày mưa",
     category: "thoughts",
