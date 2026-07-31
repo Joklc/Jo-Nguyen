@@ -164,10 +164,12 @@
 
   /* ===== MARQUEE BĂNG CHỮ CHẠY ===== */
   .marquee-band{
-    background:var(--ink);
+    background:#EDEDE8;
+    border-top:1px solid var(--line);
+    border-bottom:1px solid var(--line);
     overflow:hidden;
     white-space:nowrap;
-    padding:12px 0;
+    padding:7px 0;
   }
   .marquee-track{
     display:inline-flex;
@@ -176,15 +178,15 @@
   .marquee-track span{
     font-family:'Archivo',sans-serif;
     font-weight:800;
-    font-size:16px;
-    letter-spacing:0.02em;
-    color:#F6F6F3;
-    padding:0 28px;
+    font-size:12px;
+    letter-spacing:0.04em;
+    color:var(--ink);
+    padding:0 20px;
     display:inline-flex;
     align-items:center;
-    gap:28px;
+    gap:20px;
   }
-  .marquee-track span::after{content:"✦"; color:var(--accent); font-size:12px;}
+  .marquee-track span::after{content:"✦"; color:var(--accent); font-size:9px;}
   @keyframes marquee-scroll{
     from{transform:translateX(0);}
     to{transform:translateX(-50%);}
