@@ -144,7 +144,7 @@ Mình chưa áp dụng thành thục gì cả, vẫn đang tập hỏi ngược 
     {
     title: "Những người sếp đã định hình mình",
     category: "thoughts",
-    date: "2026-07-21",
+    date: "2026-08-13",
     cover: "mentors-contrast.jpg",
     content: `
 Có những người sếp mình sẽ nhớ mãi, không phải vì chức danh của họ, mà vì cách họ đối xử với mình khi mình còn chưa biết gì.
