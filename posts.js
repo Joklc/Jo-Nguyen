@@ -73,7 +73,7 @@ Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó k
     date: "2026-06-08",
     cover: "dashboard-cover.jpg",
     content: `
-https://sales-dashboard-n2uygdf9ulrbzgvnrwbfwz.streamlit.app/
+https://sales-dashboard-joklc.streamlit.app/
     `
   },
  {
