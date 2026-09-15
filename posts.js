@@ -141,6 +141,25 @@ Combo của hai thứ này thú vị ở chỗ: tư duy ngược giúp mình tr�
 Mình chưa áp dụng thành thục gì cả, vẫn đang tập hỏi ngược lại mỗi khi định lao vào làm gì đó, và tập im lặng lâu hơn một chút trước khi bác bỏ một ý kiến trái chiều. Nhưng chỉ riêng việc chậm lại để hỏi hai câu đó thôi, mình đã thấy mình quyết định sáng suốt hơn hẳn.
     `
   },
+    {
+    title: "Những người sếp đã định hình mình",
+    category: "thoughts",
+    date: "2026-07-21",
+    cover: "mentors-contrast.jpg",
+    content: `
+Có những người sếp mình sẽ nhớ mãi, không phải vì chức danh của họ, mà vì cách họ đối xử với mình khi mình còn chưa biết gì.
+
+Anh Sean là người đầu tiên như vậy. Anh là người Úc, trung niên, tài giỏi và lanh lẹ trong công việc, nhưng điều khiến mình nể phục nhất không phải là năng lực, mà là nhân cách. Anh là người truyền cảm hứng cho mình từ những ngày đầu chập chững, kiên nhẫn chỉ dạy, tạo điều kiện để mình phát triển dù lúc đó mình còn non nớt rất nhiều. Anh không giữ kiến thức cho riêng mình, cũng không xem việc dạy người khác là mất thời gian.
+
+Sau này chuyển sang công ty mới, mình may mắn gặp chị Hằng. Dù hoàn toàn khác anh Sean về hoàn cảnh, chị lại có chung một điều: sự tử tế thật lòng. Chị tốt bụng, quan tâm nhân viên không phải vì trách nhiệm phải làm vậy, mà vì đó là con người chị.
+
+Có họ trong hành trình đi làm, mình hiểu được lãnh đạo giỏi không chỉ là người ra quyết định đúng, mà là người khiến những người xung quanh muốn trở thành phiên bản tốt hơn của chính mình.
+
+Rồi mình gặp một người sếp khác, ở giai đoạn hiện tại..... và những quyết định nhiều khi khiến mình cảm thấy thiếu tôn trọng hơn là được dẫn dắt. Sự khác biệt đó rõ đến mức mình không thể không so sánh.
+
+Mình không viết điều này để trách móc ai, mà để nhắc bản thân một điều: mình đã từng được dẫn dắt bởi những người tử tế, nên mình biết rõ điều đó là có thật, không phải một tiêu chuẩn viển vông. Và một ngày nào đó, nếu mình ở vị trí dẫn dắt người khác, mình muốn trở thành người giống anh Sean và chị Hằng — chứ không phải người khiến nhân viên phải hoài nghi về chính giá trị của bản thân mỗi ngày đi làm.
+    `
+  },
   {
     title: "Về việc học một công cụ mới",
     category: "works",
