@@ -76,6 +76,27 @@ Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó k
 https://sales-dashboard-joklc.streamlit.app/
       `
   },
+    {
+    title: "Một ngày ở núi Bà Đội Om",
+    category: "travel",
+    date: "2026-04-26",
+    cover: "ba-doi-om.jpg",
+    content: `
+Chuyến đi lần này khác với mọi chuyến đi núi khác của mình. Mình đi cùng cô Út, không phải để ngắm cảnh hay nghe chuyện xưa tích cũ, mà để lên thăm ba — người hiện đang sống trên núi.
+
+Con đường lên vẫn quen thuộc như bao lần, đất đỏ, dốc thoải, hai bên cây cối rậm rạp. Nhưng lần này mỗi bước chân đi lại mang một cảm giác khác — vừa háo hức, vừa hồi hộp, xen lẫn một chút gì đó khó gọi tên.
+
+Cô đi trước, thỉnh thoảng quay lại nhắc mình cẩn thận chỗ đá trơn, kể vài câu chuyện để không khí đỡ nặng nề. Mình lặng lẽ đi theo, đầu óc nghĩ về việc sắp gặp lại ba sau một khoảng thời gian, không biết ba sẽ trông thế nào, sẽ nói gì với nhau trước.
+
+Đến nơi, nhìn thấy ba từ xa, mọi lo lắng trong đầu mình bỗng lắng lại. Có những cuộc gặp không cần chuẩn bị trước câu gì để nói — chỉ cần đứng đó, nhìn nhau, là đã đủ nói lên nhiều điều.
+
+Ba sống trên núi đã một thời gian, một cuộc sống khác hẳn với những gì mình từng quen thuộc — chậm rãi hơn, tĩnh lặng hơn, gần với núi rừng hơn là phố thị. Mình không chắc mình hiểu hết lý do, nhưng nhìn ba giữa khung cảnh đó, có một sự bình yên nhất định mà mình nhận ra được, dù không nói thành lời.
+
+Buổi chiều hôm đó, ba cô và mình ngồi với nhau, không nói nhiều, chỉ đơn giản là ở cạnh nhau một lúc. Có lẽ đó là điều quý giá nhất của chuyến đi này — không phải một cuộc trò chuyện dài, mà là khoảng thời gian ngắn ngủi được ngồi yên bên người mình thương, trên một ngọn núi xa.
+
+Lúc xuống núi, mình không nói nhiều, chỉ lặng lẽ đi theo cô, lòng nhẹ hơn một chút so với lúc lên. Có những chuyến đi không đo được bằng khoảng cách hay độ cao, mà đo được bằng việc mình đã mang theo được gì khi trở xuống.
+    `
+  },
 {
     title: "10 năm, và cuối cùng cũng về chung một nhà",
     category: "life",
