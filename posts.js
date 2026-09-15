@@ -32,7 +32,7 @@
 
 const SITE = {
   name: "Jo Nguyen",
-  tagline: "một góc nhỏ trên internet — nghĩ gì viết nấy",
+  tagline: "một góc nhỏ của Jo — nghĩ gì viết nấy",
   author: "Joklc",
   aboutPhoto: "Jo.png.jpeg",
 
@@ -44,7 +44,7 @@ Xin chào, mình là Joklc.
 
 Đây là nơi mình lưu lại những điều vụn vặt: một chuyến đi, một công cụ mới học được, hay chỉ là một ý nghĩ giữa tuần. Không có chủ đề cố định — nghĩ gì viết nấy.
 
-Ngoài viết lách, mình làm việc với dữ liệu, Data, Excel và các hệ thống báo cáo. Nếu bạn muốn trao đổi gì, cứ để lại lời nhắn nhé.
+Ngoài viết lách, mình thich làm việc với dữ liệu, Data, Excel, các loại tool để automation công việc của mình.
   `
 };
 
@@ -119,7 +119,7 @@ Nếu một ngày nào đó mình đứng được ở độ cao đó, giữa gi
     `
   },
 {
-    title: "10 năm, và cuối cùng cũng về chung một nhà",
+    title: "10 năm cùng nhau",
     category: "life",
     date: "2026-01-01",
     cover: "ten-years-home.jpg",
@@ -205,7 +205,7 @@ Mình chưa áp dụng thành thục gì cả, vẫn đang tập hỏi ngược 
     `
   },
     {
-    title: "Liệu có một người bạn thật lòng nơi công sở không?",
+    title: "Bạn công sở?",
     category: "thoughts",
     date: "2026-09-09",
     cover: "true-friend-work.jpg",
@@ -226,7 +226,7 @@ Nên mình không còn kỳ vọng công sở sẽ cho mình một tình bạn. 
     `
   },
     {
-    title: "Những người sếp đã định hình mình",
+    title: "Những người sếp của tôi",
     category: "thoughts",
     date: "2026-08-13",
     cover: "mentors-contrast.jpg",
@@ -286,7 +286,7 @@ Có những chuyến đi không cần lịch trình. Sáng sớm, sương còn g
     `
   },
 {
-    title: "Mindfulness Leadership – Lãnh đạo bắt đầu từ chính mình",
+    title: "Mindfulness Leadership",
     category: "thoughts",
     date: "2026-07-02",
     cover: "mindful-leadership.jpg",
@@ -313,7 +313,7 @@ Lãnh đạo không bắt đầu từ việc thay đổi người khác. Lãnh �
     `
   },
 {
-    title: "Nhớ Melbourne",
+    title: "Melbourne",
     category: "travel",
     date: "2026-03-20",
     cover: "melbourne-memory.jpg",
