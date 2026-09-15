@@ -97,6 +97,27 @@ Buổi chiều hôm đó, ba cô và mình ngồi với nhau, không nói nhiề
 Lúc xuống núi, mình không nói nhiều, chỉ lặng lẽ đi theo cô, lòng nhẹ hơn một chút so với lúc lên. Có những chuyến đi không đo được bằng khoảng cách hay độ cao, mà đo được bằng việc mình đã mang theo được gì khi trở xuống.
     `
   },
+    {
+    title: "Bhutan, Nepal, Tibet — những vùng đất mình luôn muốn đến",
+    category: "travel",
+    date: "2026-08-23",
+    cover: "himalaya-dream.jpg",
+    content: `
+Có những vùng đất mình chưa từng đặt chân tới, nhưng đã sống trong đầu mình từ rất lâu, qua những bức ảnh, những cuốn sách, những đoạn phim tài liệu xem lúc nửa đêm. Với mình, đó là Bhutan, Nepal và Tây Tạng.
+
+Ba vùng đất nằm dọc dãy Himalaya, mỗi nơi một vẻ, nhưng đều mang chung một điều khiến mình bị cuốn hút: sự tĩnh lặng ở một nơi cao nhất thế giới.
+
+Bhutan là nơi duy nhất trên thế giới đo lường sự phát triển bằng "Tổng hạnh phúc quốc gia" thay vì GDP. Mình thích cái ý tưởng đó — một đất nước chọn đặt hạnh phúc của người dân lên trên tăng trưởng kinh tế. Những ngôi chùa treo mình bên vách núi, những lá cờ cầu nguyện tung bay trong gió, và một nhịp sống chậm rãi đến mức nghe nói khách du lịch phải trả phí cao để giữ cho đất nước không bị quá tải bởi chính sự nổi tiếng của nó.
+
+Nepal thì khác — dữ dội hơn, sống động hơn. Đây là nơi có Everest, nóc nhà của thế giới, nơi hàng năm biết bao người tìm đến để thử thách giới hạn của bản thân. Nhưng Nepal không chỉ có núi cao. Kathmandu với những ngôi đền cổ, tiếng chuông chùa, mùi hương trầm len trong từng con hẻm nhỏ — đó là một Nepal khác, gần gũi và huyền bí hơn nhiều so với hình ảnh những đoàn leo núi trên báo chí.
+
+Tây Tạng, với mình, là nơi bí ẩn nhất trong ba. Cao nguyên cao nhất thế giới, nơi Phật giáo Tây Tạng thấm sâu vào từng nếp sống, từng viên đá được khắc kinh văn, từng vòng quay của bánh xe cầu nguyện. Cung điện Potala sừng sững trên đồi cao ở Lhasa, những đoàn người hành hương phủ phục từng bước một trên hành trình có thể kéo dài hàng tháng trời — đó là một hình ảnh mình luôn tự hỏi: điều gì khiến con người sẵn sàng đi xa và chậm đến vậy vì đức tin của mình?
+
+Mình chưa biết khi nào mình sẽ thật sự đến những nơi này. Có thể còn rất lâu, có thể chẳng bao giờ đủ điều kiện. Nhưng mình thích giữ chúng trong danh sách những giấc mơ chưa thực hiện — không phải để tạo áp lực phải đi cho bằng được, mà vì đôi khi, có một nơi để mơ tới cũng là một loại động lực đủ đẹp để bước tiếp mỗi ngày.
+
+Nếu một ngày nào đó mình đứng được ở độ cao đó, giữa gió lạnh và những lá cờ cầu nguyện tung bay, mình nghĩ mình sẽ hiểu thêm một chút về sự nhỏ bé của con người trước núi non — và có lẽ, cũng hiểu thêm một chút về chính mình.
+    `
+  },
 {
     title: "10 năm, và cuối cùng cũng về chung một nhà",
     category: "life",
