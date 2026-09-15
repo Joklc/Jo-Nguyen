@@ -121,7 +121,7 @@ Nếu một ngày nào đó mình đứng được ở độ cao đó, giữa gi
 {
     title: "10 năm cùng nhau",
     category: "life",
-    date: "2026-03-31",
+    date: "2026-03-20",
     cover: "ten-years-home.jpg",
     content: `
 Tháng 3 năm 2015, ở Melbourne, mình gặp partner của mình lần đầu tiên. Lúc đó chẳng ai trong hai đứa nghĩ xa đến vậy. Một cuộc tình chóng vánh, nồng nhiệt như cách những mối tình tuổi trẻ thường vậy — nhanh, đẹp, và không hẹn trước ngày kết thúc.
@@ -137,7 +137,8 @@ Cho tới giờ tụi mình vẫn ở bên nhau. Đi qua những ngày dịch b�
 Mười năm kể từ buổi gặp đầu tiên ở Melbourne, năm năm chung một mái nhà. Người pha cafe nén, người đánh sữa mỗi sáng — mèo và chuột, như tụi mình vẫn hay đùa — có chung một địa chỉ, chung một chiếc máy pha cafe cũ kỹ, chung những buổi sáng và buổi tối bình thường nhất.
 
 Mười năm là một hành trình dài, đủ để hai đứa trẻ ngày đó trở thành hai người trưởng thành hơn, biết rõ hơn điều gì mình thật sự cần. Có những mối tình chỉ cần một khoảnh khắc chóng vánh, và có những mối tình cần cả một thập kỷ vòng vèo — gặp, xa, rồi làm bạn lại, rồi mới thật sự bắt đầu — để hiểu rằng, hoá ra, người đó vẫn luôn là câu trả lời.
-[youtube: https://youtu.be/20sETM_DkXU?si=Ik4J63eGq-CkVLME | Meo & Chuot]
+
+[youtube: https://youtu.be/20sETM_DkXU?si=__WL6qEuWTmWhNea | 10 years]
     `
   },
 {
