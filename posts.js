@@ -76,6 +76,29 @@ Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó k
 https://sales-dashboard-joklc.streamlit.app/
     `
   },
+      {
+    title: "10 năm, và cuối cùng cũng về chung một nhà",
+    category: "life",
+    date: "2026-01-01",
+    cover: "ten-years-home.jpg",
+    content: `
+Tháng 3 năm 2015, ở Melbourne, mình gặp partner của mình lần đầu tiên. Lúc đó chẳng ai trong hai đứa nghĩ xa đến vậy. Một cuộc tình chóng vánh, nồng nhiệt như cách những mối tình tuổi trẻ thường vậy — nhanh, đẹp, và không hẹn trước ngày kết thúc.
+
+Rồi sau một năm, tụi mình cách biệt nhau. Không phải vì hết thương, mà vì cuộc sống đưa mỗi người đi một hướng. Có những năm tháng dài mình không chắc liệu con đường đó có bao giờ giao nhau lần nữa.
+
+Tháng 8 năm 2019, tụi mình gặp lại nhau. Không hẹn trước, không kế hoạch, chỉ là hai người từng thương nhau tình cờ có cơ hội ngồi lại. Và lần này, thứ gắn kết đó không chóng vánh như lần đầu — nó chậm rãi, chắc chắn hơn, như hai người đã đủ trưởng thành để biết trân trọng những gì mình đang có.
+
+Từ đó đến nay, tụi mình đã ở bên nhau được 7 năm. Đi qua những ngày dịch bệnh khó khăn nhất cùng nhau, đi qua những đổi thay của cuộc sống, và vẫn chọn ở lại bên nhau mỗi ngày.
+
+Và giờ, sau đúng 10 năm kể từ buổi gặp đầu tiên ở Melbourne, tụi mình chính thức về chung một nhà. Người pha cafe nén, người đánh sữa mỗi sáng — mèo và chuột, như tụi mình vẫn hay đùa — giờ có chung một địa chỉ, chung một chiếc máy pha cafe cũ kỹ, chung những buổi sáng và buổi tối bình thường nhất.
+
+Mười năm là một hành trình dài, đủ để hai đứa trẻ ngày đó trở thành hai người trưởng thành hơn, biết rõ hơn điều gì mình thật sự cần. Có những mối tình chỉ cần một khoảnh khắc chóng vánh, và có những mối tình cần cả một thập kỷ vòng vèo để hiểu rằng, hoá ra, người đó vẫn luôn là câu trả lời.
+
+Melbourne năm ấy có lẽ không biết mình đang gieo xuống điều gì. Nhưng mười năm sau, tụi mình biết ơn con đường vòng vèo đó — vì cuối cùng nó vẫn dẫn về cùng một mái nhà.
+    `
+  },
+    `
+  },
  {
     title: "Chính trị công sở",
     category: "life",
