@@ -142,6 +142,27 @@ Mình chưa áp dụng thành thục gì cả, vẫn đang tập hỏi ngược 
     `
   },
     {
+    title: "Liệu có một người bạn thật lòng nơi công sở không?",
+    category: "thoughts",
+    date: "2026-07-21",
+    cover: "true-friend-work.jpg",
+    content: `
+Có một câu hỏi mình từng tự hỏi nhiều lần: liệu có tồn tại một tình bạn thật sự ở công sở, hay tất cả chỉ là quan hệ đồng nghiệp được khoác lên vẻ thân thiết?
+
+Công sở là nơi mọi người gắn kết vì lợi ích chung — cùng một mục tiêu, cùng chịu áp lực, cùng deadline. Điều đó dễ tạo ra cảm giác gần gũi. Ăn trưa cùng nhau, than thở về sếp cùng nhau, hỗ trợ nhau qua một dự án khó. Nhưng gần gũi trong hoàn cảnh có phải là tình bạn thật, hay chỉ là sự đồng hành tạm thời vì cùng ở chung một con thuyền?
+
+Mình nghĩ ranh giới nằm ở một câu hỏi đơn giản: nếu một trong hai người nghỉ việc ngày mai, tình bạn đó có còn không?
+
+Có những mối quan hệ công sở, dù thân thiết đến đâu, cũng lặng lẽ nhạt dần khi không còn gặp nhau mỗi ngày, không còn chung một nhóm chat công việc, không còn lý do cụ thể để giữ liên lạc. Điều đó không có nghĩa là những khoảnh khắc thân thiết đó giả dối. Chỉ là nó được nuôi dưỡng bởi hoàn cảnh, và khi hoàn cảnh thay đổi, nó cũng thay đổi theo.
+
+Nhưng cũng có những người, sau khi rời công ty rồi, mình vẫn giữ liên lạc, vẫn hỏi thăm, vẫn sẵn sàng gặp nhau dù chẳng còn liên quan gì đến công việc nữa. Với những người đó, mình nghĩ ranh giới giữa "đồng nghiệp" và "bạn" đã thật sự được xoá bỏ.
+
+Có lẽ câu trả lời không phải là có hay không, mà là: tình bạn thật ở công sở là có thể, nhưng hiếm, và không đến từ việc làm chung phòng ban hay ngồi cạnh nhau mỗi ngày. Nó đến từ những khoảnh khắc hiếm hoi khi một người đối xử với mình không phải vì lợi ích công việc, mà chỉ đơn giản vì họ quan tâm mình là ai.
+
+Nên mình không còn kỳ vọng công sở sẽ cho mình một tình bạn. Nhưng mình vẫn để ngỏ khả năng đó — và trân trọng hơn hẳn khi nó thật sự xảy ra.
+    `
+  },
+    {
     title: "Những người sếp đã định hình mình",
     category: "thoughts",
     date: "2026-08-13",
