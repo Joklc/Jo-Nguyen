@@ -86,15 +86,15 @@ Tháng 3 năm 2015, ở Melbourne, mình gặp partner của mình lần đầu 
 
 Rồi sau một năm, tụi mình cách biệt nhau. Không phải vì hết thương, mà vì cuộc sống đưa mỗi người đi một hướng. Có những năm tháng dài mình không chắc liệu con đường đó có bao giờ giao nhau lần nữa.
 
-Tháng 8 năm 2019, tụi mình gặp lại nhau. Không hẹn trước, không kế hoạch, chỉ là hai người từng thương nhau tình cờ có cơ hội ngồi lại. Và lần này, thứ gắn kết đó không chóng vánh như lần đầu — nó chậm rãi, chắc chắn hơn, như hai người đã đủ trưởng thành để biết trân trọng những gì mình đang có.
+Năm 2019, tụi mình gặp lại nhau, làm bạn lại từ đầu. Không vội vàng, không cố gắng nối lại những gì đã qua, chỉ đơn giản là hai người từng thương nhau giờ tìm lại nhau như những người bạn. Suốt hai năm sau đó, tụi mình xây lại mọi thứ chậm rãi — không chóng vánh như lần đầu, mà chắc chắn hơn theo từng bước.
 
-Từ đó đến nay, tụi mình đã ở bên nhau được 7 năm. Đi qua những ngày dịch bệnh khó khăn nhất cùng nhau, đi qua những đổi thay của cuộc sống, và vẫn chọn ở lại bên nhau mỗi ngày.
+Năm 2021, giữa những ngày dịch bệnh khó khăn nhất, tụi mình quyết định về chung một nhà. Đó không phải một quyết định vội vàng giữa hoàn cảnh, mà là kết quả của hai năm tìm hiểu lại nhau đủ để biết chắc đây là điều cả hai muốn.
 
-Và giờ, sau đúng 10 năm kể từ buổi gặp đầu tiên ở Melbourne, tụi mình chính thức về chung một nhà. Người pha cafe nén, người đánh sữa mỗi sáng — mèo và chuột, như tụi mình vẫn hay đùa — giờ có chung một địa chỉ, chung một chiếc máy pha cafe cũ kỹ, chung những buổi sáng và buổi tối bình thường nhất.
+Cho tới giờ tụi mình vẫn ở bên nhau. Đi qua những ngày dịch bệnh cùng nhau ngay từ những tháng đầu chung sống, đi qua bao đổi thay của cuộc sống.
 
-Mười năm là một hành trình dài, đủ để hai đứa trẻ ngày đó trở thành hai người trưởng thành hơn, biết rõ hơn điều gì mình thật sự cần. Có những mối tình chỉ cần một khoảnh khắc chóng vánh, và có những mối tình cần cả một thập kỷ vòng vèo để hiểu rằng, hoá ra, người đó vẫn luôn là câu trả lời.
+Mười năm kể từ buổi gặp đầu tiên ở Melbourne, năm năm chung một mái nhà. Người pha cafe nén, người đánh sữa mỗi sáng — mèo và chuột, như tụi mình vẫn hay đùa — có chung một địa chỉ, chung một chiếc máy pha cafe cũ kỹ, chung những buổi sáng và buổi tối bình thường nhất.
 
-Melbourne năm ấy có lẽ không biết mình đang gieo xuống điều gì. Nhưng mười năm sau, tụi mình biết ơn con đường vòng vèo đó — vì cuối cùng nó vẫn dẫn về cùng một mái nhà.
+Mười năm là một hành trình dài, đủ để hai đứa trẻ ngày đó trở thành hai người trưởng thành hơn, biết rõ hơn điều gì mình thật sự cần. Có những mối tình chỉ cần một khoảnh khắc chóng vánh, và có những mối tình cần cả một thập kỷ vòng vèo — gặp, xa, rồi làm bạn lại, rồi mới thật sự bắt đầu — để hiểu rằng, hoá ra, người đó vẫn luôn là câu trả lời.
     `
   },
 {
