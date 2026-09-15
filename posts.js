@@ -144,7 +144,7 @@ Mình chưa áp dụng thành thục gì cả, vẫn đang tập hỏi ngược 
     {
     title: "Liệu có một người bạn thật lòng nơi công sở không?",
     category: "thoughts",
-    date: "2026-07-21",
+    date: "2026-09-09",
     cover: "true-friend-work.jpg",
     content: `
 Có một câu hỏi mình từng tự hỏi nhiều lần: liệu có tồn tại một tình bạn thật sự ở công sở, hay tất cả chỉ là quan hệ đồng nghiệp được khoác lên vẻ thân thiết?
