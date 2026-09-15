@@ -403,7 +403,7 @@ Sếp mới về thay, cách làm việc khác hoàn toàn với những gì mì
 
 Có những đêm mình mở trang tìm việc, gõ vào ô tìm kiếm rồi lại đóng lại. Không phải vì không có lựa chọn khác, mà vì trong lòng vẫn còn một câu hỏi chưa trả lời được: mình đang chạy trốn, hay mình đang thực sự cần rời đi?
 
-[youtube: https://www.youtube.com/watch?v=lwgr_IMeEgA | Rise Up — Andra Day. Bài hát mình nghe đi nghe lại trong giai đoạn đó]
+[youtube: https://youtu.be/5_ozB0ImkYA?si=BUbtLcfOvY9ZnLYi | Đúng cũng thành sai thôi... Bài hát mình nghe đi nghe lại trong giai đoạn đó]
 
 Mình chọn ở lại, không phải vì không còn đường nào khác, mà vì muốn tự mình trả lời câu hỏi đó cho rõ ràng trước khi bước tiếp.
 
