@@ -74,9 +74,9 @@ Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó k
     cover: "dashboard-cover.jpg",
     content: `
 https://sales-dashboard-joklc.streamlit.app/
-    `
+      `
   },
-      {
+{
     title: "10 năm, và cuối cùng cũng về chung một nhà",
     category: "life",
     date: "2026-01-01",
@@ -97,9 +97,7 @@ Mười năm là một hành trình dài, đủ để hai đứa trẻ ngày đ�
 Melbourne năm ấy có lẽ không biết mình đang gieo xuống điều gì. Nhưng mười năm sau, tụi mình biết ơn con đường vòng vèo đó — vì cuối cùng nó vẫn dẫn về cùng một mái nhà.
     `
   },
-    `
-  },
- {
+{
     title: "Chính trị công sở",
     category: "life",
     date: "2026-06-12",
