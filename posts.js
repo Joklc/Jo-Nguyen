@@ -44,7 +44,7 @@ Xin chào, mình là Joklc.
 
 Đây là nơi mình lưu lại những điều vụn vặt: một chuyến đi, một công cụ mới học được, hay chỉ là một ý nghĩ giữa tuần. Không có chủ đề cố định — nghĩ gì viết nấy.
 
-Ngoài viết lách, mình thich làm việc với dữ liệu, Data, Excel, các loại tool để automation công việc của mình.
+Ngoài viết lách, mình thich làm việc với dữ liệu, Data, Excel, các loại tool để automate công việc của mình.
   `
 };
 
@@ -386,8 +386,6 @@ Rồi mình nhận ra vấn đề chưa bao giờ nằm ở thời tiết. Nó n
 
 Nên mình đổi cách chơi. Mùa nắng thì dậy sớm hơn một chút, chạy lúc trời còn dịu, về nhà kịp ngắm nắng lên. Mùa mưa thì trải thảm tập trong nhà, vài động tác giãn cơ, chống đẩy, plank — mưa cứ rơi ngoài cửa sổ, mình cứ tập trong này. Không buổi tập nào hoàn hảo, nhưng buổi nào cũng đáng.
 
-[youtube: https://www.youtube.com/watch?v=KQetemT1sWc | Here Comes The Sun — nghe bài này chạy bộ buổi sáng là đúng bài]
-
 Điều hay nhất của việc vận động đều đặn không phải là cơ bụng hay số cân. Nó là cảm giác mình giữ được một lời hứa nhỏ với bản thân, mỗi ngày, bất kể trời nắng hay mưa.
 
 Sức khoẻ giống như ly cafe sáng — không thể uống bù. Mỗi ngày một chút, nắng cũng được, mưa cũng được, miễn là đừng dừng lại.
@@ -426,9 +424,9 @@ Cách đây vài năm, một buổi sáng làm báo cáo doanh số của mình 
 
 Giờ thì phần lớn việc đó đã có AI làm giúp. Không phải kiểu "robot thay thế con người" như phim viễn tưởng, mà cụ thể hơn nhiều: một công cụ hiểu được câu hỏi bằng ngôn ngữ tự nhiên, tự viết công thức, tự phát hiện điểm bất thường trong dữ liệu mà trước đây phải nhìn cả trăm dòng mới nhận ra.
 
-Ngành tài chính, theo mình, là một trong những ngành sẽ bị AI định hình lại rõ nét nhất — không phải vì tài chính "dễ" mà vì tài chính vốn dĩ là ngành của dữ liệu và mẫu hình. Mà dữ liệu và mẫu hình lại chính là thứ AI làm tốt nhất.
+Ngành tài chính, theo mình, là một trong những ngành sẽ bị AI định hình lại rõ nét nhất — không phải vì tài chính "dễ" mà vì tài chính vốn dĩ là ngành của data và model. Mà data và model lại chính là thứ AI làm tốt nhất.
 
-**Vài điều mình thấy đang thay đổi rõ nhất:**
+*Vài điều mình thấy đang thay đổi rõ nhất:
 
 Dự báo và lập kế hoạch không còn chỉ dựa vào số liệu lịch sử và trực giác của người lập kế hoạch. AI có thể xử lý hàng loạt biến số cùng lúc — mùa vụ, xu hướng thị trường, thậm chí cả tin tức — để đưa ra dự báo sát hơn nhiều so với công thức Excel truyền thống.
 
