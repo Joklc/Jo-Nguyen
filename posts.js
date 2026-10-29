@@ -77,6 +77,19 @@ https://sales-dashboard-joklc.streamlit.app/
   `
   },
     {
+    title: "Finance Coop: quả trứng vàng cuối tháng",
+    category: "works",
+    date: "2026-10-27",
+    cover: "finance-coop-cover.jpg",
+    content: `
+Phòng Finance của tụi mình, phiên bản gà. Mỗi người giữ một khâu, và đêm cuối tháng cả đội phải chốt sổ cho kịp bình minh.
+
+[video: finance-coop-web.mp4 | Finance Coop: Month-end closed]
+
+Mỗi quả trứng vàng là một con số đúng.
+    `
+  },
+    {
     title: "Một ngày ở núi Bà Đội Om",
     category: "travel",
     date: "2026-04-26",
