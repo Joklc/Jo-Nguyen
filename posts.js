@@ -74,7 +74,7 @@ Khi công việc mang lại giá trị, sự phát triển và niềm vui, nó k
     cover: "dashboard-cover.jpg",
     content: `
 https://sales-dashboard-joklc.streamlit.app/
-      `
+  `
   },
     {
     title: "Một ngày ở núi Bà Đội Om",
@@ -116,6 +116,17 @@ Tây Tạng, với mình, là nơi bí ẩn nhất trong ba. Cao nguyên cao nh�
 Mình chưa biết khi nào mình sẽ thật sự đến những nơi này. Có thể còn rất lâu, có thể chẳng bao giờ đủ điều kiện. Nhưng mình thích giữ chúng trong danh sách những giấc mơ chưa thực hiện — không phải để tạo áp lực phải đi cho bằng được, mà vì đôi khi, có một nơi để mơ tới cũng là một loại động lực đủ đẹp để bước tiếp mỗi ngày.
 
 Nếu một ngày nào đó mình đứng được ở độ cao đó, giữa gió lạnh và những lá cờ cầu nguyện tung bay, mình nghĩ mình sẽ hiểu thêm một chút về sự nhỏ bé của con người trước núi non — và có lẽ, cũng hiểu thêm một chút về chính mình.
+    `
+  },
+    {
+    title: "Chuột đồng bị mèo dí (mini game)",
+    category: "life",
+    date: "2026-10-29",
+    cover: "",
+    content: `
+Một game nhỏ tự làm: chuột đồng chạy trốn mèo qua ruộng lúa.
+
+[game: chuot-dong.html | Chạm / Space để nhảy, P để tạm dừng]
     `
   },
 {
