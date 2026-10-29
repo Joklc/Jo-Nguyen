@@ -122,7 +122,7 @@ Nếu một ngày nào đó mình đứng được ở độ cao đó, giữa gi
     title: "Chuột đồng bị mèo dí (mini game)",
     category: "life",
     date: "2026-10-29",
-    cover: "",
+    cover: "chuot-dong-cover.jpg",
     content: `
 Một game nhỏ tự làm: chuột đồng chạy trốn mèo qua ruộng lúa.
 
