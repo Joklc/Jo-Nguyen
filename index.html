@@ -420,6 +420,7 @@
     width:100%;height:100%;
     border:0;
   }
+  .post-body video{width:100%;display:block;margin:32px 0 0;border-radius:12px;background:#000;}
   .post-body .game-wrap{position:relative;width:100%;padding-top:46.67%;margin:32px 0;border-radius:12px;overflow:hidden;background:#1d2b1a;}
   .post-body .game-wrap iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0;}
 
@@ -797,6 +798,12 @@ function renderPost(i){
       id = id.replace(/[^A-Za-z0-9_-]/g, '');
       const cap = yt[2] ? `<figcaption>${escapeHtml(yt[2].trim())}</figcaption>` : '';
       return `<figure><div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/${id}" title="YouTube video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>${cap}</figure>`;
+    }
+    const vm = t.match(/^\[video:\s*([^\]|]+?)\s*(?:\|\s*([^\]]*))?\]$/);
+    if(vm){
+      const src = vm[1].trim().replace(/[^A-Za-z0-9_\-./]/g,'');
+      const cap = vm[2] ? `<figcaption>${escapeHtml(vm[2].trim())}</figcaption>` : '';
+      return `<figure><video controls playsinline preload="metadata" src="${src}"></video>${cap}</figure>`;
     }
     const gm = t.match(/^\[game:\s*([^\]|]+?)\s*(?:\|\s*([^\]]*))?\]$/);
     if(gm){
