@@ -230,11 +230,11 @@ Combo của hai thứ này thú vị ở chỗ: tư duy ngược giúp mình tr�
 Mình chưa áp dụng thành thục gì cả, vẫn đang tập hỏi ngược lại mỗi khi định lao vào làm gì đó, và tập im lặng lâu hơn một chút trước khi bác bỏ một ý kiến trái chiều. Nhưng chỉ riêng việc chậm lại để hỏi hai câu đó thôi, mình đã thấy mình quyết định sáng suốt hơn hẳn.
     `
   },
-    {
+      {
     title: "Lên lớp",
     category: "thoughts",
     date: "2026-10-01",
-    cover: "",
+    cover: "len-lop.jpg",
     content: `
 Một năm trước, mình khổ sở thật sự. Mỗi ngày đi làm là một lần phải nuốt xuống thứ gì đó, và tối về thì nặng trong lòng.
 
@@ -246,8 +246,9 @@ Hôm nay mình nhận ra lòng mình đã yên. Việc vẫn còn đó, người
 
 Cảm giác giống như được lên lớp. Bài vở không dễ hơn, chỉ là mình đã đủ vững để học tiếp.
 
-Mười tám tháng, và mình biết thêm một điều: mình chịu được nhiều hơn mình tưởng.
+Mười tám tháng, mình không thắng ai cả. Mình chỉ thắng được sự bực tức của chính mình, và vậy là đủ.
     `
+
   },
     {
     title: "Bạn công sở?",
