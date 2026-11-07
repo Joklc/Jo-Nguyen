@@ -284,6 +284,10 @@ Sau này chuyển sang công ty mới, mình may mắn gặp chị Hằng. Dù h
 
 Có họ trong hành trình đi làm, mình hiểu được lãnh đạo giỏi không chỉ là người ra quyết định đúng, mà là người khiến những người xung quanh muốn trở thành phiên bản tốt hơn của chính mình.
 
+Rồi mình gặp một người sếp khác, ở giai đoạn hiện tại..... và những quyết định nhiều khi khiến mình cảm thấy thiếu tôn trọng hơn là được dẫn dắt. Sự khác biệt đó rõ đến mức mình không thể không so sánh.
+
+Mình không viết điều này để trách móc ai, mà để nhắc bản thân một điều: mình đã từng được dẫn dắt bởi những người tử tế, nên mình biết rõ điều đó là có thật, không phải một tiêu chuẩn viển vông. Và một ngày nào đó, nếu mình ở vị trí dẫn dắt người khác, mình muốn trở thành người giống anh Sean và chị Hằng — chứ không phải người khiến nhân viên phải hoài nghi về chính giá trị của bản thân mỗi ngày đi làm.
+    `
   },
   {
     title: "Về việc học một công cụ mới",
@@ -465,13 +469,13 @@ Giờ thì phần lớn việc đó đã có AI làm giúp. Không phải kiểu
 
 Ngành tài chính, theo mình, là một trong những ngành sẽ bị AI định hình lại rõ nét nhất — không phải vì tài chính "dễ" mà vì tài chính vốn dĩ là ngành của data và model. Mà data và model lại chính là thứ AI làm tốt nhất.
 
-*Vài điều mình thấy đang thay đổi rõ nhất:
+Vài điều mình thấy đang thay đổi rõ nhất:
 
 Dự báo và lập kế hoạch không còn chỉ dựa vào số liệu lịch sử và trực giác của người lập kế hoạch. AI có thể xử lý hàng loạt biến số cùng lúc — mùa vụ, xu hướng thị trường, thậm chí cả tin tức — để đưa ra dự báo sát hơn nhiều so với công thức Excel truyền thống.
 
 Phát hiện gian lận và rủi ro giờ chạy theo thời gian thực. Một giao dịch bất thường có thể được gắn cờ trong tích tắc, thay vì được phát hiện sau một kỳ kiểm toán.
 
-Công việc phân tích, thứ trước đây chiếm phần lớn thời gian của một nhân viên tài chính — tổng hợp số liệu, làm báo cáo, đối chiếu dữ liệu — đang dần được AI đảm nhận. Điều đó không có nghĩa là vai trò con người biến mất, mà là dịch chuyển: từ người *thực hiện phép tính* sang người *đặt câu hỏi đúng* và *diễn giải ý nghĩa* đằng sau con số.
+Công việc phân tích, thứ trước đây chiếm phần lớn thời gian của một nhân viên tài chính — tổng hợp số liệu, làm báo cáo, đối chiếu dữ liệu — đang dần được AI đảm nhận. Điều đó không có nghĩa là vai trò con người biến mất, mà là dịch chuyển: từ người thực hiện phép tính sang người đặt câu hỏi đúng và diễn giải ý nghĩa đằng sau con số.
 
 Đây là điều mình nghĩ quan trọng nhất: AI giỏi xử lý dữ liệu, nhưng chưa thể thay thế phán đoán, đạo đức nghề nghiệp, hay khả năng chịu trách nhiệm cho một quyết định tài chính. Một mô hình có thể gợi ý, nhưng người ký tên vào quyết định vẫn phải là con người.
 
