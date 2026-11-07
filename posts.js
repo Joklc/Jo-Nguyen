@@ -231,6 +231,25 @@ Mình chưa áp dụng thành thục gì cả, vẫn đang tập hỏi ngược 
     `
   },
     {
+    title: "Lên lớp",
+    category: "thoughts",
+    date: "2026-10-01",
+    cover: "",
+    content: `
+Một năm trước, mình khổ sở thật sự. Mỗi ngày đi làm là một lần phải nuốt xuống thứ gì đó, và tối về thì nặng trong lòng.
+
+Mình đã làm một việc không dễ: ở lại và đối diện. Không bỏ đi, không cãi lại, không để sự khó chịu thành lời. Mình nhẫn nhịn, và dùng khoảng thời gian đó để nhìn thẳng vào khuyết điểm của chính mình rồi sửa từng cái một.
+
+Mình không nói đó là cách đúng cho mọi người. Nhưng với mình, nó có tác dụng. Khi mình thôi tranh cãi, mình mới có đủ chỗ trong đầu để học. Khi mình thôi bực tức, mình mới thấy rõ việc nào là của mình để làm tốt hơn.
+
+Hôm nay mình nhận ra lòng mình đã yên. Việc vẫn còn đó, người vẫn vậy, nhưng cái nặng trong lòng thì không còn. Không ai tuyên bố gì, không có cuộc họp nào chốt lại. Chỉ là một buổi sáng mình thức dậy và thấy nhẹ.
+
+Cảm giác giống như được lên lớp. Bài vở không dễ hơn, chỉ là mình đã đủ vững để học tiếp.
+
+Mười tám tháng, và mình biết thêm một điều: mình chịu được nhiều hơn mình tưởng.
+    `
+  },
+    {
     title: "Bạn công sở?",
     category: "thoughts",
     date: "2026-09-09",
@@ -265,10 +284,6 @@ Sau này chuyển sang công ty mới, mình may mắn gặp chị Hằng. Dù h
 
 Có họ trong hành trình đi làm, mình hiểu được lãnh đạo giỏi không chỉ là người ra quyết định đúng, mà là người khiến những người xung quanh muốn trở thành phiên bản tốt hơn của chính mình.
 
-Rồi mình gặp một người sếp khác, ở giai đoạn hiện tại..... và những quyết định nhiều khi khiến mình cảm thấy thiếu tôn trọng hơn là được dẫn dắt. Sự khác biệt đó rõ đến mức mình không thể không so sánh.
-
-Mình không viết điều này để trách móc ai, mà để nhắc bản thân một điều: mình đã từng được dẫn dắt bởi những người tử tế, nên mình biết rõ điều đó là có thật, không phải một tiêu chuẩn viển vông. Và một ngày nào đó, nếu mình ở vị trí dẫn dắt người khác, mình muốn trở thành người giống anh Sean và chị Hằng — chứ không phải người khiến nhân viên phải hoài nghi về chính giá trị của bản thân mỗi ngày đi làm.
-    `
   },
   {
     title: "Về việc học một công cụ mới",
