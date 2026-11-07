@@ -230,7 +230,7 @@ Combo của hai thứ này thú vị ở chỗ: tư duy ngược giúp mình tr�
 Mình chưa áp dụng thành thục gì cả, vẫn đang tập hỏi ngược lại mỗi khi định lao vào làm gì đó, và tập im lặng lâu hơn một chút trước khi bác bỏ một ý kiến trái chiều. Nhưng chỉ riêng việc chậm lại để hỏi hai câu đó thôi, mình đã thấy mình quyết định sáng suốt hơn hẳn.
     `
   },
-   {
+{
     title: "Lên lớp",
     category: "thoughts",
     date: "2026-10-01",
@@ -248,9 +248,8 @@ Cảm giác giống như được lên lớp. Bài vở không dễ hơn, chỉ 
 
 Mười tám tháng, mình không thắng ai cả. Mình chỉ thắng được sự bực tức của chính mình, và vậy là đủ.
     `
-
   },
-    {
+{
     title: "Bạn công sở?",
     category: "thoughts",
     date: "2026-09-09",
@@ -270,8 +269,8 @@ Có lẽ câu trả lời không phải là có hay không, mà là: tình bạn
 
 Nên mình không còn kỳ vọng công sở sẽ cho mình một tình bạn. Nhưng mình vẫn để ngỏ khả năng đó — và trân trọng hơn hẳn khi nó thật sự xảy ra.
     `
-  },
-    {
+   },
+{
     title: "Những người sếp của tôi",
     category: "thoughts",
     date: "2026-08-13",
